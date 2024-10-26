@@ -29,7 +29,7 @@ function App() {
         </div>
         <div className='flex gap-8 justify-center items-center'>
           <ModeToggle />
-          <a href='https://github.com/HoneyHanny/'>
+          <a href='https://github.com/HoneyHanny/encoding-techniques'>
             <div className='rounded-full border p-2.5 shadow'>
               <Github width={16} height={16} />
             </div>
